@@ -1,0 +1,200 @@
+_id,Ward_No,Ward Name,Parks #,Park area (sq m)
+1,1,Kempegowda Ward,3,5899.74
+2,2,Chowdeswari Ward,6,11181.39
+3,3,Atturu,30,98281.4
+4,4,Yelahanka Satellite Town,26,153858.29
+5,5,Jakkuru,17,33158.45
+6,6,Thanisandra,22,80829.49
+7,7,Byatarayanapura,30,115449.12
+8,8,Kodigehalli,23,166993.94
+9,9,Vidyaranyapura,37,125965.64
+10,10,Dodda Bommasandra,17,111413.55
+11,11,Kuvempu Nagar,13,35070.75
+12,12,Shettihalli,8,42283.17
+13,13,Mallasandra,5,11825.01
+14,14,Bagalakunte,8,20434.85
+15,15,T Dasarahalli,0,0
+16,16,Jalahalli,21,177049
+17,17,J P Park,4,359434.43
+18,18,Radhakrishna Temple Ward,29,74683.61
+19,19,Sanjaya Nagar,21,37718.13
+20,20,Ganga Nagar,7,9386.52
+21,21,Hebbala,10,13100.59
+22,22,Vishwanath Nagenahalli,0,0
+23,23,Nagavara,0,0
+24,24,HBR Layout,11,33641.57
+25,25,Horamavu,6,35194.28
+26,26,Ramamurthy Nagar,2,3879.96
+27,27,Banasavadi,17,112570.79
+28,28,Kammanahalli,2,3783.78
+29,29,Kacharkanahalli,4,12951.95
+30,30,Kadugondanahalli,3,5235.53
+31,31,Kushal Nagar,1,596.1
+32,32,Kaval Bairasandra,4,7208.17
+33,33,Manorayana Palya,1,2710.87
+34,34,Gangenahalli,2,17153.05
+35,35,Aramane Nagara,22,1150100.84
+36,36,Mattikere,8,10283.15
+37,37,Yeshwanthpura,3,2123.13
+38,38,HMT Ward,14,53534.3
+39,39,Chokkasandra,13,44551.24
+40,40,Dodda Bidarakallu,17,62276.02
+41,41,Peenya Industrial Area,9,33736.14
+42,42,Lakshmi Devi Nagar,4,17282.07
+43,43,Nandini Layout,24,82807.54
+44,44,Marappana Palya,11,25569.19
+45,45,Malleshwaram,4,13706.6
+46,46,Jayachamarajendra Nagar,8,16200.7
+47,47,Devara Jeevanahalli,4,8179.71
+48,48,Muneshwara Nagar,1,742.8
+49,49,Lingarajapura,6,11588.55
+50,50,Benniganahalli,36,105644.64
+51,51,Vijnanapura,7,11927.75
+52,52,KR Puram,9,12806.52
+53,53,Basavanapura,7,4816.87
+54,54,Hudi,7,20559.83
+55,55,Devasandra,1,46959.59
+56,56,A Narayanapura,1,3232.73
+57,57,C.V. Raman Nagar,2,1391.3
+58,58,New Tippa Sandra,10,32901.02
+59,59,Maruthi Seva Nagar,6,12103.5
+60,60,Sagayara Puram,2,10828.66
+61,61,SK Garden,4,7971.2
+62,62,Ramaswamy Palya,4,79966.23
+63,63,Jaya Mahal,12,159743.29
+64,64,Raj Mahal Guttahalli,8,12855.25
+65,65,Kadu Malleshwar Ward,9,37858.9
+66,66,Subramanya Nagar,6,26920.05
+67,67,Nagapura,25,63498.46
+68,68,Mahalakshmipuram,10,28541.61
+69,69,Laggere,0,0
+70,70,Rajagopal Nagar,2,4476.28
+71,71,Hegganahalli,2,2943.19
+72,72,Herohalli,27,110037.05
+73,73,Kottegepalya,22,64783.08
+74,74,Shakthi Ganapathi Nagar,4,14165.96
+75,75,Shankar Matt,16,34953.63
+76,76,Gayithri Nagar,3,16947.71
+77,77,Dattatreya Temple Ward,2,2370.79
+78,78,Pulakeshi Nagar,11,64726.89
+79,79,Sarvagna Nagar,7,40254.93
+80,80,Hoysala Nagar,17,67642.01
+81,81,Vijnana Nagar,4,9079.55
+82,82,Garudachar palya,4,17193.93
+83,83,Kadugodi,5,43598.85
+84,84,Hagadur,18,66851.51
+85,85,Dodda Nekkundi,28,75082.02
+86,86,Marathahalli,1,9987.51
+87,87,HAL Airport,11,71105.52
+88,88,Jeevanbhima Nagar,7,21565.77
+89,89,Jogupalya,3,4910.3
+90,90,Halsoor,9,75990.61
+91,91,Bharathi Nagar,2,3610.27
+92,92,Shivaji Nagar,1,702.84
+93,93,Vasanth Nagar,12,555682.41
+94,94,Gandhi Nagar,18,137209.8
+95,95,Subhash Nagar,6,40208.26
+96,96,Okalipuram,4,17544.52
+97,97,Dayananda Nagar,2,1577.1
+98,98,Prakash Nagar,2,46826.65
+99,99,Rajaji Nagar,8,19480.05
+100,100,Basaveshwara Nagar,3,21279.54
+101,101,Kamakshipalya,5,20814.83
+102,102,Vrisahbhavathi Nagar,2,3853.89
+103,103,Kaveripura,10,38257.51
+104,104,Govindaraja Nagar,10,18191.33
+105,105,Agrahara Dasarahalli,9,27897.08
+106,106,Dr.Raj Kumar Ward,17,52755.86
+107,107,Shiva Nagar,4,14886.63
+108,108,Sri Rama Mandir Ward,11,25237.43
+109,109,Chickpete,0,0
+110,110,Sampangiram Nagar,10,816445.8
+111,111,Shantala Nagar,12,265578.87
+112,112,Domlur,43,104809.89
+113,113,Konena Agrahara,7,485242.71
+114,114,Agaram,7,20401.37
+115,115,Vannar Pet,16,37818.75
+116,116,Nilasandra,0,0
+117,117,Shanthi Nagar,3,25979.14
+118,118,Sudham Nagar,4,11278.72
+119,119,Dharmaraya Swamy Temple,5,28726.3
+120,120,Cottonpete,4,20489.1
+121,121,Binni Pete,2,3678.16
+122,122,Kempapura Agrahara,1,4697.69
+123,123,Vijaya Nagar,15,25178.8
+124,124,Hosahalli,12,24233.63
+125,125,Marenahalli,15,25411.83
+126,126,Maruthi Mandir Ward,14,22641.61
+127,127,Mudalapalya,6,11138.22
+128,128,Nagarabhavi,27,59631.9
+129,129,Jnana Bharathi Ward,99,284158.15
+130,130,Ullalu,47,125594.46
+131,131,Nayandahalli,8,24020.12
+132,132,Attiguppe,40,81136.01
+133,133,Hampi Nagar,26,109500.03
+134,134,Bapuji Nagar,1,1701.55
+135,135,Padarayanapura,2,1113.78
+136,136,Jagajivanaram Nagar,3,24712.35
+137,137,Rayapuram,2,15994.01
+138,138,Chelavadi Palya,0,0
+139,139,KR Market,2,2071.95
+140,140,Chamraja Pet,4,14484.13
+141,141,Azad Nagar,5,10985.35
+142,142,Sunkenahalli,11,64956.52
+143,143,Vishveshwara Puram,5,641027.76
+144,144,Siddapura,2,6153.28
+145,145,Hombegowda Nagar,7,21661.76
+146,146,Lakkasandra,3,5845.58
+147,147,Adugodi,3,7985.17
+148,148,Ejipura,4,41156.48
+149,149,Varthur,2,5099.53
+150,150,Bellanduru,43,105226.65
+151,151,Koramangala,24,106228.99
+152,152,Suddagunte Palya,5,66388.68
+153,153,Jaya Nagar,13,278469.24
+154,154,Basavanagudi,6,82110.53
+155,155,Hanumanth Nagar,11,174614.82
+156,156,Sri Nagar,3,15020.35
+157,157,Gali Anjenaya Temple Ward,3,9604.91
+158,158,Deepanjali Nagar,13,49701.82
+159,159,Kengeri,27,121034.87
+160,160,Raja Rajeshawari Nagar,48,258269.69
+161,161,Hosakerehalli,6,10857.73
+162,162,Giri Nagar,9,40892.4
+163,163,Katriguppe,7,11275.15
+164,164,Vidya Peeta Ward,9,18661.4
+165,165,Ganesh Mandir Ward,12,55496.99
+166,166,Kari Sandra,3,6474.54
+167,167,Yediyur,7,39981.46
+168,168,Pattabhi Ram Nagar,22,143122.14
+169,169,Byra Sandra,6,74419.84
+170,170,Jaya Nagar East,16,19433.78
+171,171,Gurappana Palya,1,2582.31
+172,172,Madivala,6,16992.96
+173,173,Jakka Sandra,6,39423.63
+174,174,HSR Layout,39,251459.85
+175,175,Bommanahalli,1,2491.58
+176,176,BTM Layout,20,74005.24
+177,177,JP Nagar,22,51484.18
+178,178,Sarakki,16,44893.78
+179,179,Shakambari Narar,12,79555.72
+180,180,Banashankari Temple Ward,3,3144.91
+181,181,Kumara Swamy Layout,23,95893.52
+182,182,Padmanabha Nagar,14,39498.18
+183,183,Chikkala Sandra,6,12062.41
+184,184,Uttarahalli,78,287792.93
+185,185,Yelchenahalli,5,12927.42
+186,186,Jaraganahalli,1,7017.14
+187,187,Puttenahalli,3,5665.11
+188,188,Bilekhalli,14,48088.71
+189,189,Honga Sandra,3,6692.48
+190,190,Mangammana Palya,6,31832.02
+191,191,Singa Sandra,35,108861.87
+192,192,Begur,20,48995.2
+193,193,Arakere,13,53099.33
+194,194,Gottigere,39,84135.34
+195,195,Konankunte,21,57224.58
+196,196,Anjanapura,37,154613.61
+197,197,Vasanthpura,34,93634.9
+198,198,Hemmigepura,94,534311.71
+199,Total,,"2,377","1,34,15,243"
